@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martinpparker
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python and connections to databses
+- 💞️ I’m looking to collaborate on python and connections to databases
 - 📫 How to reach me 
 
 <!---
